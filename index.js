@@ -1,4 +1,4 @@
 const age=12;
-const istrue(){
+const istrue=()=>{
  return true;
 }
