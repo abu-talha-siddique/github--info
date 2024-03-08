@@ -3,7 +3,7 @@ const istrue=()=>{
  return true;
 }
 const isfalse=()=>{
-  return false;
+  return 0;
  }
 
 
